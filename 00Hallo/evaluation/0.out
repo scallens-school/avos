@@ -1,7 +1,9 @@
-Hallo Jan 4EW
-Hallo Piet 4ETa
+Hallo Jan
+Je zit in 4EW
+Hallo Piet
+Je zit in 4ETa
 ----------------------------------------
 python input without prompt: true
 block count: multi
 input block size: 2
-output block size: 1
+output block size: 2
