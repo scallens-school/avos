@@ -6,5 +6,9 @@
       "nl": "Buur"
     }
   },
+  "evaluation":
+  {
+    "pythia_judge": "output"
+  },
   "access": "public"
 }
