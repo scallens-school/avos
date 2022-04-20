@@ -4,3 +4,8 @@ De cirkel met straal 10.0 heeft een oppervlakte van 314.0.
 De cirkel met straal 3.2 heeft een diameter van 6.4.
 De cirkel met straal 3.2 heeft een omtrek van 20.096000000000004.
 De cirkel met straal 3.2 heeft een oppervlakte van 32.153600000000004.
+----------------------------------------
+python input without prompt: true
+block count: multi
+input block size: 1
+output block size: 3
