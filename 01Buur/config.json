@@ -1,19 +1,19 @@
 {
-  "description":
-  {
-    "names":
-    {
+  "description": {
+    "names": {
       "nl": "Buur"
     }
   },
   "internals": {
-    "token": "Eox5AVvhS0eIlhP-BItiNsvXpR6QkBjOVlG3FIVSApY",
+    "token": "EyvyF9626MGQ9jU3T3DkahvE3iesvUdw4iNQ_qh-tD6AtANkCngqePUaTJGmby6F",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
-  "evaluation":
-  {
+  "evaluation": {
     "pythia_judge": "output"
   },
   "programming_language": "python",
-  "access": "public"
+  "access": "public",
+  "labels": [
+
+  ]
 }
