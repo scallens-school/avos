@@ -1,17 +1,14 @@
 {
-  "description":
-  {
-    "names":
-    {
+  "description": {
+    "names": {
       "nl": "Valversnelling"
     }
   },
   "internals": {
-    "token": "Eox5AVvhS0eIlhP-BItiNsvXpR6QkBjOVlG3FIVSApY",
+    "token": "NFfnRYaksR4faymPZTkegyH5ymeg9f-TXIFFRneuncuyDRyreFY8Vmp5jDp2nVjH",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   },
-  "evaluation":
-  {
+  "evaluation": {
     "pythia_judge": "output"
   },
   "programming_language": "python",
